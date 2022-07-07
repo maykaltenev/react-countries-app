@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.rad-list {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(5, 179, 92);
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.rad {
+  margin-left: 10%;
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.cardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
