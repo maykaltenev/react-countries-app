@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/maykaltenev/react-countries-cards/static/css/main.c4307966.css",
-    "main.js": "/maykaltenev/react-countries-cards/static/js/main.83544cf3.js",
-    "index.html": "/maykaltenev/react-countries-cards/index.html",
-    "main.c4307966.css.map": "/maykaltenev/react-countries-cards/static/css/main.c4307966.css.map",
-    "main.83544cf3.js.map": "/maykaltenev/react-countries-cards/static/js/main.83544cf3.js.map"
+    "main.css": "/maykaltenev/static/css/main.c4307966.css",
+    "main.js": "/maykaltenev/static/js/main.83544cf3.js",
+    "index.html": "/maykaltenev/index.html",
+    "main.c4307966.css.map": "/maykaltenev/static/css/main.c4307966.css.map",
+    "main.83544cf3.js.map": "/maykaltenev/static/js/main.83544cf3.js.map"
   },
   "entrypoints": [
     "static/css/main.c4307966.css",
