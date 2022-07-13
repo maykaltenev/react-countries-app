@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/maykaltenev/static/css/main.c4307966.css",
-    "main.js": "/maykaltenev/static/js/main.83544cf3.js",
-    "index.html": "/maykaltenev/index.html",
-    "main.c4307966.css.map": "/maykaltenev/static/css/main.c4307966.css.map",
-    "main.83544cf3.js.map": "/maykaltenev/static/js/main.83544cf3.js.map"
+    "main.css": "/react-countries-app/static/css/main.c4307966.css",
+    "main.js": "/react-countries-app/static/js/main.83544cf3.js",
+    "index.html": "/react-countries-app/index.html",
+    "main.c4307966.css.map": "/react-countries-app/static/css/main.c4307966.css.map",
+    "main.83544cf3.js.map": "/react-countries-app/static/js/main.83544cf3.js.map"
   },
   "entrypoints": [
     "static/css/main.c4307966.css",
